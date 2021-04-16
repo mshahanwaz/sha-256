@@ -11,6 +11,25 @@ sha-256 is terminal like website where commands are getting input and respective
 - CSS
 - Javascript
 
+## Commands cheatsheet:
+```
+'--version'		-	current version of app
+'admin'			-	my github profile
+'cd ${dir_name}'	-	to change dir
+'clear' || 'cls'	-	clears screen
+'date'			-	prints current date
+'init'			-	to initialise user
+'google ${keyword}'	-	search with google
+'hello'			- 	says hello
+'image ${link}'		-	shows image
+'ipconfig'		- 	prints location details
+'open ${site_link}'	-	opens any link
+'time'			-	prints current time
+'uuid' || 'guid'	-	generates Universal Unique ID
+
+otherwise shows error(like CMD)...
+```
+
 ## Screenshots:
 
 <p align="center">
