@@ -9,3 +9,7 @@ sha-256 is terminal like website where commands are getting input and respective
 - Javascript
 
 ## Screenshots:
+
+<p align="center">
+	<img src="/ss/1.png">
+</p>
